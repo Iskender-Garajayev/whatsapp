@@ -26,7 +26,7 @@ const Header = () => {
         {/* button  */}
         <div className="header-btn">
           <span>Whatsapp Web</span>
-          <button className='btn' >Login</button>
+          <button className='btn' >Download</button>
         </div>
       </div>
     </div>

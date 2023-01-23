@@ -2,17 +2,38 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1180px;
+  max-width: 1512px;
   height: 53px;
   margin: 0 auto;
   padding: 0 40px;
+  margin-top: 15px;
 }
 
 .navbar ul li{
   list-style-type: none;
+  font-weight: 500;
 }
 
 .navbar ul{
   display: flex;
   gap: 40px;
+}
+.btn{
+  width: 157px;
+  height: 53px;
+  color: #1c1e21;
+  background-color: #25d366;
+  border: 1px solid black;
+  border-radius: 50px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  font-family: 'Inter', sans-serif;
+}
+
+.header-btn{
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  gap: 32px;
 }

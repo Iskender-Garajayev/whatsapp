@@ -1,0 +1,10 @@
+.home-container{
+  width: 1512px;
+  margin: 0 auto;
+}
+
+.img-bg{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
